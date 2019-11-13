@@ -1,6 +1,6 @@
-var beep = " Beep! "
-var boop = " Boop! "
-var sorry = " I'm sorry, Dave. I'm afraid I can't do that. "
+var beep = "Beep!"
+var boop = "Boop!"
+var sorry = "I'm sorry, Dave. I'm afraid I can't do that."
 
 var numberset = [];
 
