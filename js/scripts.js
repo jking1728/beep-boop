@@ -31,6 +31,7 @@ $(document).ready(function() {
         var inputNumber = parseInt($("input#usernumber").val());
         var userNumbers = numberSpread(inputNumber); 
         transformArray();
+        $("#output").empty();
         results.forEach(function(result) {
             $("#output").append("<li>" + result + "</li>");
         });
